@@ -1,4 +1,4 @@
-FROM markadams/chromium-xvfb
+FROM yukinying/chrome-headless-browser-selenium
 
 ENV AWS_CLI_VERSION 1.11.131
 ENV NODE_VERSION=8.4.0
