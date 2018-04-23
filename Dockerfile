@@ -1,4 +1,4 @@
-FROM weboaks/node-karma-protractor-chrome
+FROM weboaks/node-karma-protractor-chrome:latest
 
 ENV AWS_CLI_VERSION 1.11.131
 
